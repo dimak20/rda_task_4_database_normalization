@@ -14,7 +14,7 @@ CREATE  TABLE Warehouse (
     WarehouseName VARCHAR(50),
     WarehouseAddress VARCHAR(50),
     PRIMARY KEY (ID)
-)
+);
 CREATE TABLE ProductInventory (
     ID INT,
     ProductName VARCHAR(50),
